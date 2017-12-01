@@ -1,10 +1,10 @@
 /**
  * jQuery LinkColor Plugin 1.0
  *
- * http://www.Healthsuggest.info/
+ * 
  *
- * Copyright (c) 2016 Healthsuggest
- * Coder: Nagaraju kovuri 
+ * Copyright (c) 2016 Nagaraju k 
+ * Coder: Nagaraju k 
  *
  * Dual licensed under the MIT and GPL licenses:
  * http://www.opensource.org/licenses/mit-license.php
